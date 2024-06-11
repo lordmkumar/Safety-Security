@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6Q4DsXEcLxW_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">My Role in My Safety</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="My_Role_in_My_Safety_ORG">
+    <organization identifier="My_Role_in_My_Safety_ORG">
+      <title>My Role in My Safety</title>
+      <item identifier="My_Role_in_My_Safety_-_AKU-v1_SCO" isvisible="true" identifierref="__6Q4DsXEcLxW_course_id_RES">
+        <title>My Role in My Safety</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Q4DsXEcLxW_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6i3VF67oGQu_P_35_278_1883_1022.jpg" />
+      <file href="mobile/5b9RCecE8BQ_RC5C5C5.jpg" />
+      <file href="story_content/6FIP639Jwew_44100_56_0.mp3" />
+      <file href="mobile/5x9eVKEpYA9.jpg" />
+      <file href="story_content/5Z48WkcDWIL_44100_56_0.mp3" />
+      <file href="mobile/6AE3lNhLS6d_M_684_684.png" />
+      <file href="mobile/5YPhmUWgssV_M_578_578.png" />
+      <file href="story_content/5d0VUpUAI4D_44100_56_0.mp3" />
+      <file href="mobile/5wNJueZSFTs_M_736_736.png" />
+      <file href="story_content/5bPUKZ1zSlX_44100_56_0.mp3" />
+      <file href="mobile/6kFdQxOzGQa.jpg" />
+      <file href="story_content/6WTMVTjWl1j_44100_56_0.mp3" />
+      <file href="mobile/6kFdQxOzGQa_P_0_198_301_209.jpg" />
+      <file href="mobile/6kFdQxOzGQa_P_295_198_302_209.jpg" />
+      <file href="mobile/6kFdQxOzGQa_P_597_198_302_209.jpg" />
+      <file href="mobile/6kFdQxOzGQa_P_597_0_302_204.jpg" />
+      <file href="mobile/6kFdQxOzGQa_P_295_0_305_204.jpg" />
+      <file href="mobile/6kFdQxOzGQa_P_0_0_301_204.jpg" />
+      <file href="story_content/5XnfiOqvH8Z_44100_56_0.mp3" />
+      <file href="story_content/6bSyvjnS0lI_44100_56_0.mp3" />
+      <file href="story_content/6ouPlIiOYLX_44100_56_0.mp3" />
+      <file href="mobile/6Ivhu2zQeYG_P_0_0_485_485.png" />
+      <file href="story_content/6oPYW2T8v7l_44100_56_0.mp3" />
+      <file href="story_content/6ZkAFFefkIb_44100_56_0.mp3" />
+      <file href="story_content/5ZWJ3UUxW0w_44100_56_0.mp3" />
+      <file href="story_content/5uuoYuWrt0l_44100_56_0.mp3" />
+      <file href="mobile/6QheP8Iyspd.png" />
+      <file href="story_content/5ifxyiFk5L4_44100_56_0.mp3" />
+      <file href="story_content/6D3WsO1a1t7_44100_56_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5vjQmkcJ8k1.js" />
+      <file href="html5/data/js/5vPBFfBAr5N.js" />
+      <file href="html5/data/js/5vwHNsLmiOp.js" />
+      <file href="html5/data/js/62kavfDBtST.js" />
+      <file href="html5/data/js/6a4nNGsRV8Q.js" />
+      <file href="html5/data/js/6KkF6Fx1prt.js" />
+      <file href="html5/data/js/6KtkjSiuYDU.js" />
+      <file href="html5/data/js/6NAHfTxmes7.js" />
+      <file href="html5/data/js/6ooFdAV8G4o.js" />
+      <file href="html5/data/js/6pJ7j7UU86P.js" />
+      <file href="html5/data/js/6psRHEsVgyT.js" />
+      <file href="html5/data/js/6qvdkzyMJT6.js" />
+      <file href="html5/data/js/6r51SVZHmpl.js" />
+      <file href="html5/data/js/6VSPyT3gkhG.js" />
+      <file href="html5/data/js/6YIESJAJ1Bz.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
